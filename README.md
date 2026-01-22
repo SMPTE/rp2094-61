@@ -1,4 +1,4 @@
-# SMPTE _RP 2094-61_ - _SDR-HDR Conversion Metadata Characterization Procedure _
+# SMPTE _RP 2094-61_ - _SDR-HDR Conversion Metadata Characterization Procedure_
 
 _This repository is public._ 
 
